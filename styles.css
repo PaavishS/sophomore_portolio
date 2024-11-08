@@ -7,7 +7,12 @@ h1 {
 font-family: monospace;
 }
 
+h2 {
+  font-family: monospace;
+}
+
 p {
   text-align: center;
   font-family: fantasy;
   width: 1000px;
+}
